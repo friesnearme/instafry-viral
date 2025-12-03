@@ -9,10 +9,10 @@ const HeroSection = () => {
       <div className="absolute inset-0">
         <img 
           src={heroFries} 
-          alt="Premium waffle fries" 
-          className="w-full h-full object-cover opacity-60"
+          alt="Premium waffle fries pattern" 
+          className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-dark via-dark/60 to-dark/40" />
+        <div className="absolute inset-0 bg-gradient-to-t from-dark via-dark/80 to-dark/60" />
       </div>
 
       {/* Floating Icons */}
