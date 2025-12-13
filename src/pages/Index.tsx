@@ -1,4 +1,4 @@
-import logo from "@/assets/logo.png";
+import logo from "@/assets/new-logo.jpeg";
 
 const Index = () => {
   return (
